@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vineethkumarjr/vineethkumarjr/main/about-me.svg" alt="about-me(1)" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vineethkumarjr/vineethkumarjr/main/about-me.svg" alt="About me" width="100%"/>
 </div>
