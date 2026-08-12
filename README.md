@@ -1,6 +1,6 @@
 Hi there 👋
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vineethkumarjr/vineethkumarjr/main/assets/banner.svg" alt="Vineeth Kumar J R banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vineethkumarjr/vineethkumarjr/main/banner.svg" alt="Vineeth Kumar J R banner" width="100%"/>
 </div>
 ⚡ About Me
 🎓 ECE Undergraduate, passionate about Very large scale integration 
