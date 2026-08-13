@@ -1,9 +1,9 @@
 Hi there 👋
 <div align="center">
-  <img src="https://cdn.statically.io/gh/vineethkumarjr/vineethkumarjr/main/banner.svg" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vineethkumarjr/vineethkumarjr/refs/heads/main/banner.svg" alt="banner" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://cdn.statically.io/gh/vineethkumarjr/vineethkumarjr/main/about-me.svg?v=2" alt="about-me" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vineethkumarjr/vineethkumarjr/refs/heads/main/about-me.svg" alt="about-me" width="100%"/>
 </div>
 <div align="center">
 <a href="https://www.instagram.com/_.its_mr_vineeth._" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" alt="Instagram"/></a>  
